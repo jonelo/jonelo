@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my source code repositories on Github!
+Welcome to my source code repositories on GitHub!
 
 ✨ You find other interesting stuff at https://johann.loefflmann.net ✨
 
