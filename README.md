@@ -17,9 +17,12 @@ The homepage for end users is at http://www.NumericalChameleon.net
 
 A Swing GUI in order to access NumericalChameleon's features.
 
+https://github.com/jonelo/n16n-desktop
+
 ### xml-holidays
 
 This is to support the NumericalChameleon's category "High Days and Holidays"
+
 https://github.com/jonelo/xml-holidays
 
 ### jAdapterForNativeTTS
