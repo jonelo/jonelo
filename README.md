@@ -27,7 +27,7 @@ https://github.com/jonelo/xml-holidays
 
 ### jAdapterForNativeTTS
 
-This is to support the NumericalChameleon's's feature to speak numbers by audio.
+This is to support the NumericalChameleon's feature to speak numbers by audio.
 
 https://github.com/jonelo/jAdapterForNativeTTS
 
