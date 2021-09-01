@@ -50,7 +50,7 @@ repo: https://github.com/jonelo/n16n-gensound-mstxt2speech
 
 ## Jacksum
 
-The homepage for end users ist at http://jacksum.net
+The homepage for end users ist at https://jacksum.net
 
 ### jacksum-fbi-linux
 
