@@ -17,31 +17,36 @@ The homepage for end users is at http://www.NumericalChameleon.net
 
 A Swing GUI in order to access NumericalChameleon's features.
 
-https://github.com/jonelo/n16n-desktop
+page: http://numericalchameleon.net
+repo: https://github.com/jonelo/n16n-desktop
 
 ### xml-holidays
 
 This is to support the NumericalChameleon's category "High Days and Holidays"
 
-https://github.com/jonelo/xml-holidays
+page: https://jonelo.github.io/xml-holidays/
+repo: https://github.com/jonelo/xml-holidays
 
 ### jAdapterForNativeTTS
 
 This is to support the NumericalChameleon's feature to speak numbers by audio.
 
-https://github.com/jonelo/jAdapterForNativeTTS
+page: https://jonelo.github.io/jAdapterForNativeTTS
+repo: https://github.com/jonelo/jAdapterForNativeTTS
 
 ### unlock-win-tts-voices
 
 This is a script for Windows in order to unlock Windows TTS voices for the use with the NumericalChameleon.
 
-https://github.com/jonelo/unlock-win-tts-voices
+page: https://jonelo.github.io/unlock-win-tts-voices
+repo: https://github.com/jonelo/unlock-win-tts-voices
 
 ### n16n-gensound-mstxt2speech
 
 This is a script for Windows in order to generate sound files for the NumericalChameleon.
 
-https://github.com/jonelo/n16n-gensound-mstxt2speech
+page: https://jonelo.github.io/n16n-gensound-mstxt2speech/
+repo: https://github.com/jonelo/n16n-gensound-mstxt2speech
 
 ## Jacksum
 
@@ -51,13 +56,15 @@ The homepage for end users ist at http://jacksum.net
 
 Jacksum File Browser Integration on GNU/Linux
 
-https://github.com/jonelo/jacksum-fbi-linux
+page: https://github.com/jonelo/jacksum-fbi-linux
+repo: https://github.com/jonelo/jacksum-fbi-linux
 
 ### jacksum-fbi-osx
 
 Jacksum File Browser Integration on macOS
 
-https://github.com/jonelo/jacksum-fbi-osx
+page: https://jonelo.github.io/jacksum-fbi-osx/
+repo: https://github.com/jonelo/jacksum-fbi-osx
 
 
 ## Misc Tools
