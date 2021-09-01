@@ -56,7 +56,7 @@ The homepage for end users ist at https://jacksum.net
 
 Jacksum File Browser Integration on GNU/Linux
 
-page: https://github.com/jonelo/jacksum-fbi-linux
+page: https://jonelo.github.io/jacksum-fbi-linux/
 repo: https://github.com/jonelo/jacksum-fbi-linux
 
 ### jacksum-fbi-osx
@@ -73,23 +73,27 @@ repo: https://github.com/jonelo/jacksum-fbi-osx
 
 #### bashberries
 
-https://github.com/jonelo/bashberries
+page: https://jonelo.github.io/bashberries/
+repo: https://github.com/jonelo/bashberries
 
 ### for macOS
 
 #### osx_app_vers
 
-https://github.com/jonelo/osxapp_vers
+page: https://jonelo.github.io/osxapp_vers/
+repo: https://github.com/jonelo/osxapp_vers
 
 #### ahtfix
 
-https://github.com/jonelo/ahtfix
+page: https://jonelo.github.io/ahtfix/
+repo: https://github.com/jonelo/ahtfix
 
 ### for Windows
 
 #### saveWindowsLogonImage
 
-https://github.com/jonelo/saveWindowsLogonImage
+page: https://jonelo.github.io/saveWindowsLogonImage/
+repo: https://github.com/jonelo/saveWindowsLogonImage
 
 <!--
 **jonelo/jonelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
