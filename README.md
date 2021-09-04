@@ -52,16 +52,23 @@ repo: https://github.com/jonelo/n16n-gensound-mstxt2speech
 
 The homepage for end users ist at https://jacksum.net
 
+### jacksum
+
+Jacksum - a checksum utility.
+
+page: https://jonelo.github.io/jacksum/
+repo: https://github.com/jonelo/jacksum
+
 ### jacksum-fbi-linux
 
-Jacksum File Browser Integration on GNU/Linux
+Jacksum File Browser Integration on GNU/Linux.
 
 page: https://jonelo.github.io/jacksum-fbi-linux/
 repo: https://github.com/jonelo/jacksum-fbi-linux
 
 ### jacksum-fbi-osx
 
-Jacksum File Browser Integration on macOS
+Jacksum File Browser Integration on macOS.
 
 page: https://jonelo.github.io/jacksum-fbi-osx/
 repo: https://github.com/jonelo/jacksum-fbi-osx
