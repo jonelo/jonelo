@@ -4,7 +4,7 @@ Welcome to my source code repositories on GitHub!
 
 I am Ex-Sun Microsystems, and Ex-Oracle, I love to code (not only) in Java, and I am pleased to host the source code for some of my projects here on GitHub.
 
-✨ BTW, you can find other interesting stuff at https://johann.loefflmann.net and https://www.linkedin.com/in/johannloefflmann/
+✨ BTW, you can find other interesting stuff at https://johann.loefflmann.net, https://www.credly.com/users/johann-loefflmann/badges and https://www.linkedin.com/in/johannloefflmann/ - keep in touch!
 
 ## NumericalChameleon
 
