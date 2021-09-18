@@ -73,8 +73,8 @@ repo: https://github.com/jonelo/jacksum-fbi-linux
 
 Jacksum File Browser Integration on macOS.
 
-page: https://jonelo.github.io/jacksum-fbi-osx/
-repo: https://github.com/jonelo/jacksum-fbi-osx
+page: https://jonelo.github.io/jacksum-fbi-macos/
+repo: https://github.com/jonelo/jacksum-fbi-macos
 
 
 ## Misc Tools
