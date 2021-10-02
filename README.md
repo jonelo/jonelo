@@ -2,12 +2,14 @@
 
 Welcome to my source code repositories on GitHub!
 
-I am Ex-Sun Microsystems, and Ex-Oracle. I am a SCJD, and OCP Java SE. I love to code (not only) in Java, and I am pleased to host the source code for some of my open source projects here on GitHub. I am located in Munich, Germany.🍺
+I love to code (not only) in Java, and I am pleased to host the source code for some of my open source projects here on GitHub.
 
 ✨ You can find other interesting stuff at
 - https://johann.loefflmann.net,
 - https://www.credly.com/users/johann-loefflmann/badges and
 - https://www.linkedin.com/in/johannloefflmann/ - let's keep in touch!
+
+I hold an university degree in Information Technology from an University of Applied Sciences in Germany. I am Ex-Sun Microsystems, and Ex-Oracle. I am a SCJD, and OCP Java SE, and I have a bunch of other international certificates that could be nailed to the wall. And you know what? I don't care what you have done in the past, I am interesting in that what you could do today! My motto: "people rarely succeed until they have fun in what they are doing".
 
 ## NumericalChameleon
 
