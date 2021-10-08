@@ -63,7 +63,7 @@ The homepage for end users ist at https://jacksum.net
 
 Jacksum - a checksum utility.
 
-page: https://jonelo.github.io/jacksum/
+page: https://jacksum.net
 repo: https://github.com/jonelo/jacksum
 
 ### jacksum-fbi-linux
@@ -79,6 +79,13 @@ Jacksum File Browser Integration on macOS.
 
 page: https://jonelo.github.io/jacksum-fbi-macos/
 repo: https://github.com/jonelo/jacksum-fbi-macos
+
+### docker-jacksum
+
+Jacksum on Docker.
+
+page: https://hub.docker.com/r/jonelo/jacksum
+repo: https://github.com/jonelo/docker-jacksum
 
 
 ## Misc Tools
