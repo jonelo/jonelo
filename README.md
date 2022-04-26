@@ -1,17 +1,14 @@
 # Hi there 👋
 
-Welcome to my source code repositories on GitHub!
+Welcome.  I am Johann N. Löfflmann from Munich, Germany.
+I am pleased to share the source code for my FOSS projects with you here on GitHub.
 
-I am Johann N. Löfflmann from Munich, Germany.  I hold an university degree in Information Technology from an University of Applied Sciences. I am Ex-Sun Microsystems, Ex-Oracle. I was supporting Java SE on the 3rd level at those companies for many of their customers, worldwide. I am SCJP, SCJD, and OCP Java SE certified. My motto: "people rarely succeed until they have fun in what they are doing".
-
-Well, I still love to code (not only) in Java, and I am pleased to host the source code for some of my OSI certified open source software here on GitHub.
-
-✨ You can find other interesting stuff at
-- https://johann.loefflmann.net,
+✨ You can find more info about me at
+- https://johann.loefflmann.net
 - https://www.credly.com/users/johann-loefflmann/badges and
 - https://www.linkedin.com/in/johannloefflmann/ - let's keep in touch!
 
-Have fun, and since nobody is perfect I am happy to hear from your bug reports, feature requests, ideas, stars, etc. 😀
+I am happy to hear from your bug reports, feature requests, ideas, GitHub stars, etc. 😀
 
 ## NumericalChameleon
 
