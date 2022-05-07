@@ -43,6 +43,7 @@ The homepage for end users ist at https://jacksum.net
 | [jacksum-fbi-windows](https://github.com/jonelo/jacksum-fbi-windows)     | Jacksum File Browser Integration on Microsoft Windows | https://jonelo.github.io/jacksum-fbi-macos/    |
 | [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   |                                                |
 | [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | https://hub.docker.com/r/jonelo/jacksum        |
+| [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | |
 
 
 ### Misc Tools
