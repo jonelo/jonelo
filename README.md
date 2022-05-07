@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## About me
+
 Welcome.  I am Johann N. Löfflmann from Munich, Germany.
 I am pleased to share the source code for my FOSS projects with you here on GitHub.
 
@@ -10,108 +12,48 @@ I am pleased to share the source code for my FOSS projects with you here on GitH
 
 I am happy to hear from your bug reports, feature requests, ideas, GitHub stars, etc. 😀
 
-## NumericalChameleon
+## Projects
 
-The NumericalChameleon (abbrev. n16n) is a unit converter with a lot of features.
-Actually it also acts as an incubator project for new tools and libs which could be also used by your projects.
+### NumericalChameleon
+
+The NumericalChameleon (abbrev. n16n) is a platform independent unit converter with a lot of features.
 
 The homepage for end users is at http://www.NumericalChameleon.net
 
-### n16n-desktop
+| Name/Repository                                                         | Description                                           | Webpage                                              |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
+| [n16n-desktop](https://github.com/jonelo/n16n-desktop)                  | A Swing GUI in order to access n16n's features.       | http://numericalchameleon.net                        |
+| [xml-holidays](https://github.com/jonelo/xml-holidays)                  | n16n's category "High Days and Holidays"              | https://jonelo.github.io/xml-holidays/               |
+| [jAdapterForNativeTTS](https://github.com/jonelo/jAdapterForNativeTTS)  | n16n's feature to speak numbers by audio              | https://jonelo.github.io/jAdapterForNativeTTS        |
+| [unlock-win-tts-voices](https://github.com/jonelo/unlock-win-tts-voices) | Windows script in order to unlock Windows TTS voices | https://jonelo.github.io/unlock-win-tts-voices       |
+| [n16n-gensound-mstxt2speech](https://github.com/jonelo/n16n-gensound-mstxt2speech) | Windows script to generate sound files     | https://jonelo.github.io/n16n-gensound-mstxt2speech/ |
+ 
 
-A Swing GUI in order to access NumericalChameleon's features.
+### Jacksum
 
-page: http://numericalchameleon.net
-repo: https://github.com/jonelo/n16n-desktop
-
-### xml-holidays
-
-This is to support the NumericalChameleon's category "High Days and Holidays"
-
-page: https://jonelo.github.io/xml-holidays/
-repo: https://github.com/jonelo/xml-holidays
-
-### jAdapterForNativeTTS
-
-This is to support the NumericalChameleon's feature to speak numbers by audio.
-
-page: https://jonelo.github.io/jAdapterForNativeTTS
-repo: https://github.com/jonelo/jAdapterForNativeTTS
-
-### unlock-win-tts-voices
-
-This is a script for Windows in order to unlock Windows TTS voices for the use with the NumericalChameleon.
-
-page: https://jonelo.github.io/unlock-win-tts-voices
-repo: https://github.com/jonelo/unlock-win-tts-voices
-
-### n16n-gensound-mstxt2speech
-
-This is a script for Windows in order to generate sound files for the NumericalChameleon.
-
-page: https://jonelo.github.io/n16n-gensound-mstxt2speech/
-repo: https://github.com/jonelo/n16n-gensound-mstxt2speech
-
-## Jacksum
+Jacksum (JAva ChecKSUM) is a free, open source, cross-platform, feature-rich, multi-threaded data integrity verification tool on the command line. It is also a lib, and it is all about checksums, CRCs, and message digests (aka hashes, data/file fingerprints, thumbprints).
 
 The homepage for end users ist at https://jacksum.net
 
-### jacksum
-
-Jacksum - a checksum utility.
-
-page: https://jacksum.net
-repo: https://github.com/jonelo/jacksum
-
-### jacksum-fbi-linux
-
-Jacksum File Browser Integration on GNU/Linux.
-
-page: https://jonelo.github.io/jacksum-fbi-linux/
-repo: https://github.com/jonelo/jacksum-fbi-linux
-
-### jacksum-fbi-osx
-
-Jacksum File Browser Integration on macOS.
-
-page: https://jonelo.github.io/jacksum-fbi-macos/
-repo: https://github.com/jonelo/jacksum-fbi-macos
-
-### docker-jacksum
-
-Jacksum on Docker.
-
-page: https://hub.docker.com/r/jonelo/jacksum
-repo: https://github.com/jonelo/docker-jacksum
+| Name/Repository                                                          | Description                                           | Webpage                                        |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------- |
+| [jacksum](https://github.com/jonelo/jacksum)                             | Jacksum (lib and CLI)                                 | https://jacksum.net                            |
+| [jacksum-fbi-linux](https://github.com/jonelo/jacksum-fbi-linux)         | Jacksum File Browser Integration on GNU/Linux         | https://jonelo.github.io/jacksum-fbi-linux/    |
+| [jacksum-fbi-macos](https://github.com/jonelo/jacksum-fbi-macos)         | Jacksum File Browser Integration on macOS             | https://jonelo.github.io/jacksum-fbi-macos/    |
+| [jacksum-fbi-windows](https://github.com/jonelo/jacksum-fbi-windows)     | Jacksum File Browser Integration on Microsoft Windows | https://jonelo.github.io/jacksum-fbi-macos/    |
+| [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   |                                                |
+| [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | https://hub.docker.com/r/jonelo/jacksum        |
 
 
-## Misc Tools
+### Misc Tools
 
-### for GNU/Linux
+| Name/Repository                                                          | Description                                             | OS          | Webpage                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------------- | ----------- | ----------------------------------------------- |
+| [bashberries](https://github.com/jonelo/bashberries)                     | Misc bash scripts                                       | GNU/Linux   | https://jonelo.github.io/bashberries/           |
+| [osxapp_vers](https://github.com/jonelo/osxapp_vers)                     | Get OS version info from an Apple Install*.app          | macOS       | https://jonelo.github.io/osxapp_vers/           |
+| [ahtfix](https://github.com/jonelo/ahtfix)                               | Restore the Apple Hardware Test (AHT) on your (old) Mac | macOS       | https://jonelo.github.io/ahtfix/                |
+| [saveWindowsLoginImage](https://github.com/jonelo/saveWindowsLogonImage) | Saves the current Windows logon image                   | Windows+WSL | https://jonelo.github.io/saveWindowsLogonImage/ |
 
-#### bashberries
-
-page: https://jonelo.github.io/bashberries/
-repo: https://github.com/jonelo/bashberries
-
-### for macOS
-
-#### osx_app_vers
-
-page: https://jonelo.github.io/osxapp_vers/
-repo: https://github.com/jonelo/osxapp_vers
-
-#### ahtfix
-
-page: https://jonelo.github.io/ahtfix/
-repo: https://github.com/jonelo/ahtfix
-
-### for Windows
-
-#### saveWindowsLogonImage
-
-page: https://jonelo.github.io/saveWindowsLogonImage/
-repo: https://github.com/jonelo/saveWindowsLogonImage
 
 <!--
 **jonelo/jonelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
