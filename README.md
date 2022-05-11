@@ -8,7 +8,8 @@ I am pleased to share the source code for my FOSS projects with you here on GitH
 ✨ You can find more info about me at
 - https://johann.loefflmann.net
 - https://www.credly.com/users/johann-loefflmann/badges and
-- https://www.linkedin.com/in/johannloefflmann/ - let's keep in touch!
+- https://www.linkedin.com/in/johannloefflmann/ - let's keep in touch, and
+- Follow me at <a rel="me" href="https://fosstodon.org/@jonelo">Mastodon</a>
 
 I am happy to hear from your bug reports, feature requests, ideas, GitHub stars, etc. 😀
 
