@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/jonelo/jonelo/blob/main/mastodon.svg">
+<img src="https://github.com/jonelo/jonelo/blob/main/mastodon.svg?sanitize=false">
 
