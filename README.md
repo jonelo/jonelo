@@ -2,7 +2,7 @@
 
 ## About me
 
-Welcome.  I am Johann N. Löfflmann from Munich, Germany. I grew up with the C64. I coded in Assembler, COBOL, C, C++, Fortran, Pascal, and a lot of other programming languages which I didn't remember. Today I still enjoy writing code. Robust, modern, shiny code. At least sometimes ;-)
+Welcome.  I am Johann N. Löfflmann from Munich, Germany. I grew up with the C64. I coded in Assembler, COBOL, C, C++, Fortran, Pascal, and a lot of other programming languages which I don't remember. Today I still enjoy writing code. Robust, modern, shiny code. At least sometimes ;-)
 
 I am pleased to share the source code for my FOSS projects with you here on GitHub.
 
