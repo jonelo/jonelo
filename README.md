@@ -2,7 +2,7 @@
 
 ## About me
 
-Welcome.  I am Johann N. Löfflmann from Munich, Germany. My first computer was a C-64. My generation invented the smart phone. I have a university degree in IT, and I worked for Sun Microsystems and Oracle as a tech engineer. Java was my daily business for many years actually. Now I am an Solution Engineer at an IoT company. In my spare time I enjoy writing FOSS code. Robust, modern, shiny code. At least sometimes ;-)
+Welcome.  I am Johann N. Löfflmann from Munich, Germany. My first computer was a C-64. My generation invented the smart phone, you know. I have an university degree in IT, and I worked for Sun Microsystems and Oracle as a tech engineer. Java was my daily business for many years actually. Now I am an Solution Engineer at an IoT company. In my spare time I enjoy writing FOSS code. Robust, modern, shiny code. At least sometimes ;-)
 
 GNU/Linux, Microsoft Windows, and macOS are my development environments.
 I am pleased to share the source code for my FOSS projects with you here on GitHub.
