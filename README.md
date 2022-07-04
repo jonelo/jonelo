@@ -2,7 +2,7 @@
 
 ## About me
 
-Welcome.  I am Johann N. Löfflmann from Munich, Germany. I grew up with the C64. I coded in Assembler, COBOL, C, C++, Fortran, Pascal, and a lot of other programming languages which I don't remember.  I am a former Sun Microsystems and Oracle principal engineer, and Java was my daily business for many years. Today I still enjoy writing code. Robust, modern, shiny code. At least sometimes ;-)
+Welcome.  I am Johann N. Löfflmann from Munich, Germany. I grew up with the C64.  I am a former Sun Microsystems and Oracle principal engineer, and Java was my daily business for many years. Now I am an Solution Engineer at an IoT company. In my spare time I still enjoy writing code, FOSS preferred. Robust, modern, shiny code. At least sometimes ;-)
 
 I am pleased to share the source code for my FOSS projects with you here on GitHub.
 I am open minded and I use GNU/Linux, Microsoft Windows, and macOS.
