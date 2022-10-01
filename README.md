@@ -2,7 +2,7 @@
 
 ## About me
 
-Welcome.  I am Johann N. Löfflmann from Munich, Germany.  My first computer was a C-64.  I have an university degree in IT, I worked for both Sun Microsystems and Oracle as a tech engineer. Java was my daily business for many years. For a few years I have been working as an Solution Engineer at an IoT company. In my spare time I still enjoy writing FOSS code. Robust, modern, shiny code. Well, at least sometimes ;-)
+Welcome.  I am Johann N. Löfflmann from Munich, Germany.  My first computer was a C-64.  I have an university degree in IT, I worked for both Sun Microsystems and Oracle as a tech engineer, and Java was my daily business for many years. For a few years I have been working as an Solution Engineer at an IoT company. In my spare time I still enjoy writing FOSS code. Robust, modern, shiny code. Well, at least sometimes ;-)
 
 GNU/Linux, Microsoft Windows, and macOS are my development environments.
 I am pleased to share the source code for my FOSS projects with you here on GitHub.
