@@ -4,9 +4,6 @@
 
 Welcome.  I am Johann N. Löfflmann from Munich, Germany.  My first computer was a C-64.  I have an university degree in IT.  I worked for both Sun Microsystems and Oracle as a tech engineer, and Java was my daily business for many years.  Today I am working as a presales consultant for tailored IoT projects.  Once a developer always a developer.  For 20+ years I enjoy writing FOSS code. Robust, modern, shiny code. Well, at least sometimes 😉
 
-GNU/Linux, Microsoft Windows, and macOS are my development environments.
-I am pleased to share the source code for my FOSS projects with you here on GitHub.
-
 ✨ You can find more info about me at
 - https://johann.loefflmann.net
 - https://www.credly.com/users/johann-loefflmann/badges and
@@ -14,6 +11,8 @@ I am pleased to share the source code for my FOSS projects with you here on GitH
 - Follow me at <a rel="me" href="https://fosstodon.org/@jonelo">Mastodon</a>
 
 ## Projects
+
+I am pleased to share the source code for my FOSS projects with you here on GitHub.
 
 If you like one of the projects below, give it a GitHub star.
 I am also happy to read your bug reports, and feature requests.
