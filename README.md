@@ -36,7 +36,7 @@ The homepage for end users is at http://www.NumericalChameleon.net
 
 Jacksum (JAva ChecKSUM) is a free, open source, cross-platform, feature-rich, multi-threaded data integrity verification tool on the command line. It is also a lib, and it is all about checksums, CRCs, and message digests (aka hashes, data/file fingerprints, thumbprints).
 
-The homepage for end users ist at https://jacksum.net
+The homepage for end users is at https://jacksum.net
 
 | Name/Repository                                                          | Description                                           | Webpage                                        |
 | ------------------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------- |
