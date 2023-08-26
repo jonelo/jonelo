@@ -47,6 +47,7 @@ The homepage for end users is at https://jacksum.net
 | [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   |                                                |
 | [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | https://hub.docker.com/r/jonelo/jacksum        |
 | [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | |
+| [jacksum-testcases](https://github.com/jonelo/jacksum-testcases)         | Testcases to test Jacksum by calling its CLI          | https://github.com/jonelo/jacksum-testcases    |
 
 
 ### Misc Tools
