@@ -42,6 +42,7 @@ The homepage for end users is at https://jacksum.net
 | [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | https://hub.docker.com/r/jonelo/jacksum        |
 | [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | |
 | [jacksum-testcases](https://github.com/jonelo/jacksum-testcases)         | Testcases to test Jacksum by calling its CLI          | https://github.com/jonelo/jacksum-testcases    |
+| [dumahadaba](https://github.com/jonelo/dumahadaba)                       | Dump Malware Hash DataBase. For Jacksum's `--wanted-list` option | https://github.com/jonelo/dumahadaba    |
 
 
 ### Misc Tools
