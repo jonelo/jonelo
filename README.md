@@ -17,13 +17,13 @@ The NumericalChameleon (abbrev. n16n) is a platform independent unit converter w
 
 The homepage for end users is at http://www.NumericalChameleon.net
 
-| Name/Repository                                                         | Description                                           | Webpage                                              |
-| ----------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
-| [n16n-desktop](https://github.com/jonelo/n16n-desktop)                  | A Swing GUI in order to access n16n's features.       | http://numericalchameleon.net                        |
-| [xml-holidays](https://github.com/jonelo/xml-holidays)                  | n16n's category "High Days and Holidays"              | https://jonelo.github.io/xml-holidays/               |
-| [jAdapterForNativeTTS](https://github.com/jonelo/jAdapterForNativeTTS)  | n16n's feature to speak numbers by audio              | https://jonelo.github.io/jAdapterForNativeTTS        |
-| [unlock-win-tts-voices](https://github.com/jonelo/unlock-win-tts-voices) | Windows script in order to unlock Windows TTS voices | https://jonelo.github.io/unlock-win-tts-voices       |
-| [n16n-gensound-mstxt2speech](https://github.com/jonelo/n16n-gensound-mstxt2speech) | Windows script to generate sound files     | https://jonelo.github.io/n16n-gensound-mstxt2speech/ |
+| Name/Repository                                                         | Description                                           | OS   | Webpage                                              |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | ---- | ------------------------------------------------ |
+| [n16n-desktop](https://github.com/jonelo/n16n-desktop)                  | A Swing GUI in order to access n16n's features.       | cross platform | http://numericalchameleon.net                        |
+| [xml-holidays](https://github.com/jonelo/xml-holidays)                  | n16n's category "High Days and Holidays"              | cross platform | https://jonelo.github.io/xml-holidays/               |
+| [jAdapterForNativeTTS](https://github.com/jonelo/jAdapterForNativeTTS)  | n16n's feature to speak numbers by audio              | cross platform | https://jonelo.github.io/jAdapterForNativeTTS        |
+| [unlock-win-tts-voices](https://github.com/jonelo/unlock-win-tts-voices) | Windows script in order to unlock Windows TTS voices | Windows | https://jonelo.github.io/unlock-win-tts-voices       |
+| [n16n-gensound-mstxt2speech](https://github.com/jonelo/n16n-gensound-mstxt2speech) | Windows script to generate sound files     | Windows | https://jonelo.github.io/n16n-gensound-mstxt2speech/ |
  
 
 ### Jacksum
@@ -32,17 +32,17 @@ Jacksum (JAva ChecKSUM) is a free, open source, cross-platform, feature-rich, mu
 
 The homepage for end users is at https://jacksum.net
 
-| Name/Repository                                                          | Description                                           | Webpage                                        |
-| ------------------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------- |
-| [jacksum](https://github.com/jonelo/jacksum)                             | Jacksum (lib and CLI)                                 | https://jacksum.net                            |
-| [jacksum-fbi-linux](https://github.com/jonelo/jacksum-fbi-linux)         | Jacksum File Browser Integration on GNU/Linux         | https://jonelo.github.io/jacksum-fbi-linux/    |
-| [jacksum-for-macos](https://github.com/jonelo/jacksum-for-macos)         | Jacksum for macOS                                     | https://jonelo.github.io/jacksum-for-macos/    |
-| [jacksum-fbi-windows](https://github.com/jonelo/jacksum-fbi-windows)     | Jacksum for Windows                                   | https://jonelo.github.io/jacksum-fbi-macos/    |
-| [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   |                                                |
-| [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | https://hub.docker.com/r/jonelo/jacksum        |
-| [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | |
-| [jacksum-testcases](https://github.com/jonelo/jacksum-testcases)         | Testcases to test Jacksum by calling its CLI          | https://github.com/jonelo/jacksum-testcases    |
-| [dumahadaba](https://github.com/jonelo/dumahadaba)                       | Dump Malware Hash DataBase. For Jacksum's `--wanted-list` option | https://github.com/jonelo/dumahadaba    |
+| Name/Repository                                                          | Description                                           | OS | Webpage                                        |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | --- | ------------------------------------------- |
+| [jacksum](https://github.com/jonelo/jacksum)                             | Jacksum (lib and CLI)                                 | cross platform | https://jacksum.net                            |
+| [jacksum-fbi-linux](https://github.com/jonelo/jacksum-fbi-linux)         | Jacksum File Browser Integration on GNU/Linux         | Linux | https://jonelo.github.io/jacksum-fbi-linux/    |
+| [jacksum-for-macos](https://github.com/jonelo/jacksum-for-macos)         | Jacksum for macOS                                     | macOS | https://jonelo.github.io/jacksum-for-macos/    |
+| [jacksum-fbi-windows](https://github.com/jonelo/jacksum-fbi-windows)     | Jacksum for Windows                                   | Windows | https://jonelo.github.io/jacksum-fbi-macos/    |
+| [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   | cross platform |                                                |
+| [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | cross platform x64 | https://hub.docker.com/r/jonelo/jacksum        |
+| [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | cross platform | |
+| [jacksum-testcases](https://github.com/jonelo/jacksum-testcases)         | Testcases to test Jacksum by calling its CLI          | cross platform | https://github.com/jonelo/jacksum-testcases    |
+| [dumahadaba](https://github.com/jonelo/dumahadaba)                       | Dump Malware Hash DataBase. For Jacksum's `--wanted-list` option | cross platform | https://github.com/jonelo/dumahadaba    |
 
 
 ### Misc Tools
