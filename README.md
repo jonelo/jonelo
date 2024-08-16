@@ -4,6 +4,10 @@
 
 Welcome.  I am Johann N. Löfflmann from Munich, Germany.  My first computer was a C64.  I have a university degree in computer science.  I worked for both Sun Microsystems and Oracle as a tech engineer, and Java was my daily business for many years.  Today I am working as a presales consultant for tailored IoT projects.  Once a developer, always a developer.  For 20+ years, I have enjoyed writing FLOSS code. Robust, modern, shiny code. Well, at least sometimes 😉
 
+### My OpenPGP Public Key
+
+https://keys.openpgp.org/vks/v1/by-fingerprint/1DC82A86AE55FD2B97E92C0763F84C61889BAC2E
+
 ## Projects
 
 I am pleased to share the source code for my FLOSS projects with you here on GitHub.
