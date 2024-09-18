@@ -39,9 +39,9 @@ The homepage for end users is at https://jacksum.net
 | Name/Repository                                                          | Description                                           | OS | Webpage                                        |
 | ------------------------------------------------------------------------ | ----------------------------------------------------- | --- | ------------------------------------------- |
 | [jacksum](https://github.com/jonelo/jacksum)                             | Jacksum (lib and CLI)                                 | cross platform | https://jacksum.net                            |
-| [jacksum-fbi-linux](https://github.com/jonelo/jacksum-fbi-linux)         | Jacksum File Browser Integration on GNU/Linux         | Linux | https://jonelo.github.io/jacksum-fbi-linux/    |
+| [jacksum-for-linux](https://github.com/jonelo/jacksum-for-linux)         | Jacksum File Browser Integration on GNU/Linux         | Linux | https://jonelo.github.io/jacksum-for-linux/    |
 | [jacksum-for-macos](https://github.com/jonelo/jacksum-for-macos)         | Jacksum for macOS                                     | macOS | https://jonelo.github.io/jacksum-for-macos/    |
-| [jacksum-fbi-windows](https://github.com/jonelo/jacksum-fbi-windows)     | Jacksum for Windows                                   | Windows | https://jonelo.github.io/jacksum-fbi-macos/    |
+| [jacksum-for-windows](https://github.com/jonelo/jacksum-for-windows)     | Jacksum for Windows                                   | Windows | https://jonelo.github.io/jacksum-for-macos/    |
 | [HashGarten](https://github.com/jonelo/HashGarten)                       | A GUI to access features of Jacksum                   | cross platform |                                                |
 | [docker-jacksum](https://github.com/jonelo/docker-jacksum)               | Jacksum on Docker                                     | cross platform x64 | https://hub.docker.com/r/jonelo/jacksum        |
 | [jacksum-help2wiki](https://github.com/jonelo/jacksum-help2wiki)         | Converts `jacksum -h` output to GitHub Wiki compatible markup | cross platform | |
