@@ -4,10 +4,6 @@
 
 Welcome.  I am Johann N. Löfflmann from Munich, Germany.  My first computer was a C64.  I have a university degree in computer science.  I worked for both Sun Microsystems and Oracle as a tech engineer, and Java was my daily business for many years.  Today I am working as a presales consultant for tailored IoT projects.  Once a developer, always a developer.  For 20+ years, I have enjoyed writing FLOSS code. Robust, modern, shiny code. Well, at least sometimes 😉
 
-### My OpenPGP Public Key
-
-https://keys.openpgp.org/vks/v1/by-fingerprint/1DC82A86AE55FD2B97E92C0763F84C61889BAC2E
-
 ## Projects
 
 I am pleased to share the source code for my FLOSS projects with you here on GitHub.
@@ -58,6 +54,29 @@ The homepage for end users is at https://jacksum.net
 | [ahtfix](https://github.com/jonelo/ahtfix)                               | Restore the Apple Hardware Test (AHT) on your (old) Mac | macOS       | https://jonelo.github.io/ahtfix/                |
 | [saveWindowsLoginImage](https://github.com/jonelo/saveWindowsLogonImage) | Saves the current Windows logon image                   | Windows+WSL | https://jonelo.github.io/saveWindowsLogonImage/ |
 | [TOTP secrets adapter](https://github.com/jonelo/totp-secrets-adapter)   | Adapter to feed authenticators running on the desktop   | cross platform |  |
+
+
+## My OpenPGP Public Key
+
+https://keys.openpgp.org/vks/v1/by-fingerprint/1DC82A86AE55FD2B97E92C0763F84C61889BAC2E
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: 1DC8 2A86 AE55 FD2B 97E9  2C07 63F8 4C61 889B AC2E
+Comment: Johann N. Löfflmann (https://johann.loefflmann.net)
+
+xjMEZr8WDBYJKwYBBAHaRw8BAQdAqfc5ZNv2BfbditoHr8iYo/ftPkNp+8MWd268
+7RqI1ivNTEpvaGFubiBOLiBMw7ZmZmxtYW5uIChodHRwczovL2pvaGFubi5sb2Vm
+ZmxtYW5uLm5ldCkgPGpvaGFubkBsb2VmZmxtYW5uLm5ldD7CmQQTFgoAQRYhBB3I
+KoauVf0rl+ksB2P4TGGIm6wuBQJmvxYMAhsDBQkB4TOABQsJCAcCAiICBhUKCQgL
+AgQWAgMBAh4HAheAAAoJEGP4TGGIm6wuB78A/ic5vzq+qkqs3nPuAWtsHbtkumN7
+j07VxkfeP2xvBiIJAP9ScjJvF5so4Xk4l1ljUFwKLG2UI4HaqTaSpUdJK70yBs44
+BGa/FgwSCisGAQQBl1UBBQEBB0AzeUGKiA0z5UmPa6ErEUg15qXVULCQQMdc886T
+hX1sYQMBCAfCfgQYFgoAJhYhBB3IKoauVf0rl+ksB2P4TGGIm6wuBQJmvxYMAhsM
+BQkB4TOAAAoJEGP4TGGIm6wukMEBAIFHq9gfV0yozTbG1WtAJGNYpYKrcpRcfZMh
+z3vUanfWAQCzbENEEtYD0wtqC0QPl5OC9jw8cM26jrvLysmsmu9TBA==
+=yQ8T
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 
 <!--
