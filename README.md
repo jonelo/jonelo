@@ -54,6 +54,7 @@ The homepage for end users is at https://jacksum.net
 | [ahtfix](https://github.com/jonelo/ahtfix)                               | Restore the Apple Hardware Test (AHT) on your (old) Mac | macOS       | https://jonelo.github.io/ahtfix/                |
 | [saveWindowsLoginImage](https://github.com/jonelo/saveWindowsLogonImage) | Saves the current Windows logon image                   | Windows+WSL | https://jonelo.github.io/saveWindowsLogonImage/ |
 | [TOTP secrets adapter](https://github.com/jonelo/totp-secrets-adapter)   | Adapter to feed authenticators running on the desktop   | cross platform |  |
+| [screencapture-fix](https://github.com/jonelo/screencapture-fix)         | Fix a broken screencapture on an OCLP patched MacBookPro8,1 | macOS  | |
 
 
 ## My OpenPGP Public Key
