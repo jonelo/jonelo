@@ -49,7 +49,7 @@ The homepage for end users is at https://jacksum.net
 
 | Name/Repository                                                          | Description                                             | OS          | Webpage                                         |
 | ------------------------------------------------------------------------ | ------------------------------------------------------- | ----------- | ----------------------------------------------- |
-| [bashberries](https://github.com/jonelo/bashberries)                     | Misc bash scripts                                       | GNU/Linux   | https://jonelo.github.io/bashberries/           |
+| [bashberries](https://github.com/jonelo/bashberries)                     | Misc bash scripts                                       | GNU/Linux, Unix | https://jonelo.github.io/bashberries/           |
 | [osxapp_vers](https://github.com/jonelo/osxapp_vers)                     | Get OS version info from an Apple Install*.app          | macOS       | https://jonelo.github.io/osxapp_vers/           |
 | [ahtfix](https://github.com/jonelo/ahtfix)                               | Restore the Apple Hardware Test (AHT) on your (old) Mac | macOS       | https://jonelo.github.io/ahtfix/                |
 | [saveWindowsLoginImage](https://github.com/jonelo/saveWindowsLogonImage) | Saves the current Windows logon image                   | Windows+WSL | https://jonelo.github.io/saveWindowsLogonImage/ |
