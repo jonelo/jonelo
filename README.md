@@ -2,7 +2,9 @@
 
 ## About me
 
-Welcome.  I am Johann N. Löfflmann from Munich, Germany.  When I was a child I got my first computer, a C64, used.  My first PC was an ultra expensive brandnew i386DX with 2 MiB of RAM (SIPP-modules!) and an 80 MiB HDD running MS-DOS.  Well, today you won't even find an USB thumb drive of that size. I have an university degree in computer science.  I worked for both Sun Microsystems and Oracle as a tech engineer, and Java was my daily business for many years.  Today I am working as a presales consultant for tailored IoT projects, as a Chief Information Security Officer (CISO), and a team lead.  Once a developer, always a developer.  For 20+ years, I have enjoyed writing FLOSS code. Robust, modern, shiny code. Well, at least sometimes 😉
+I am a Munich-based Tech Lead, Chief Information Security Officer (CISO), and Security Consultant specializing in tailored IoT projects. My tech journey started in the era of Commodore 64s and 386DX machines, which eventually led me to a degree in Computer Science and years of working as a Tech Engineer at **Sun Microsystems** and **Oracle**, where Java was my daily business.
+
+No matter the role, my core philosophy remains: *Once a developer, always a developer.* For over 20 years, I have been deeply passionate about writing robust, modern, and high-quality FLOSS code.
 
 ## Projects
 
