@@ -57,7 +57,7 @@ The homepage for end users is at https://jacksum.net
 | [saveWindowsLoginImage](https://github.com/jonelo/saveWindowsLogonImage) | Saves the current Windows logon image                   | Windows+WSL | https://jonelo.github.io/saveWindowsLogonImage/ |
 | [TOTP secrets adapter](https://github.com/jonelo/totp-secrets-adapter)   | Adapter to feed authenticators running on the desktop   | cross platform |  |
 | [screencapture-fix](https://github.com/jonelo/screencapture-fix)         | Fix a broken screencapture on an OCLP patched MacBookPro8,1 | macOS  | |
-
+| [updatejdk](https://github.com/jonelo/updatejdk)                         | Keep your JDKs up to date - without a package manager | macOS+GNU/Linux | |
 
 ## My OpenPGP Public Key
 
